@@ -5,7 +5,7 @@
 <p align="center">Estudante de Ciência da Computação pela PUC Minas, atualmente focada em Java e SQL. Apaixonada por aprender e aplicar conhecimentos para criar soluções inovadoras, estou sempre em busca de novos desafios e atualizações na área de tecnologia.
 
 
-  <h3 align="center">Connect with me!</h3>
+  <h3 align="center">Conecte-se comigo! </h3>
   
 
 <div align="center">
