@@ -69,5 +69,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
     />
 </div>
 
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilydaniella/emilydaniella/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilydaniella/emilydaniella/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emilydaniella/emilydaniella/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0014A8&section=footer"/>
 
