@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0014A8"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0014A0&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Daniella+Silva!)](https://git.io/typing-svg)
 
 <p align="center">Estudante de Ciência de Computação pela PUC Minas. Atualmente estudo Java e SQL paralelamente.
@@ -66,3 +68,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
         src="https://skillicons.dev/icons?i=mysql" 
     />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0014A8&section=footer"/>
+
