@@ -20,7 +20,6 @@
 
 <div style="text-align: center; background-color: #000000; padding: 20px;">
 
-#
 <h3 align="center">Linguagens e Competências</h3>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
