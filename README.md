@@ -20,12 +20,6 @@
 
 <div style="text-align: center; background-color: #000000; padding: 20px;">
 
-
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emilydaniella&show_icons=true&count_private=true&hide_border=true&title_color=0014A8&icon_color=0014A8&text_color=c9d1d9&bg_color=0d1117" alt="Github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilydaniella&layout=compact&hide_border=true&title_color=0014A8&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 #
 <h3 align="center">Linguagens e Competências</h3>
 
