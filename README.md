@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0014A0&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Daniella+Silva!)](https://git.io/typing-svg)
 
-<p align="center">Estudante de Ciência da Computação pela PUC Minas, atualmente focada em Java e SQL. Apaixonada por aprender e aplicar conhecimentos para criar soluções inovadoras, estou sempre em busca de novos desafios e atualizações na área de tecnologia.
+<p align="center">Estudante de Ciência da Computação pela PUC Minas, atualmente focada em Análise de Dados. Apaixonada por aprender e aplicar conhecimentos para criar soluções inovadoras, estou sempre em busca de novos desafios e atualizações na área de tecnologia.
 
 
   <h3 align="center">Conecte-se comigo! </h3>
